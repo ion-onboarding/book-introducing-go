@@ -1,0 +1,2 @@
+We used the Println function defined in the fmt package. If you wanted to use the Exit function from the os package, what would you need to do?
+import the os package with `import "os"` and then reference the Exit function from within the os package `os.Exit`
